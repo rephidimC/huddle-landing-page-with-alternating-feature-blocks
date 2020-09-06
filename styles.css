@@ -255,7 +255,7 @@ img {
   display: inline-block;
   margin: 0 0.5rem;
   border-style: solid;
-  border-color: hsl(223, 100%, 88%);
+  border-color: white;
   border-width: 0.3px;
   border-radius: 50%;
   cursor: pointer;
@@ -445,6 +445,7 @@ img {
 
   .sm {
     margin: 0 0.25rem;
+    border-width: 2px;
   }
 
   .copyright {
